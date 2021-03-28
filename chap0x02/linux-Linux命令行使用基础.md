@@ -25,7 +25,7 @@
    $ sudo apt-get install asciinema
    ```
 
-   ![install_asciinema](img/install_asciinema.jpg)
+   ![install_asciinema](./install_asciinema.jpg)
 
 2. 运行以下命令，并在浏览器中打开显示的URL，关联终端与在线账户。
 
@@ -33,7 +33,7 @@
    $ asciinema auth
    ```
 
-   ![asciinema_auth](img/asciinema_auth.png)
+   ![asciinema_auth](./asciinema_auth.png)
 
 3. asciinema基本操作
 
