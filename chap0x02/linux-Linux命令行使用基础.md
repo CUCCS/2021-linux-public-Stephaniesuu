@@ -58,38 +58,38 @@ $ :q! <ENTER>  #退出学习
 
 #### lesson 1
 
-* 1.1-1.5 [vimtutor-lerning 1.1-1.5 - asciinema](https://asciinema.org/a/402816)
-* 1.6 [vimtutor-lerning 1.6 - asciinema](https://asciinema.org/a/402846)
+* 1.1-1.5 [![asciicast](https://asciinema.org/a/402816.svg)](https://asciinema.org/a/402816)
+* 1.6 [![asciicast](https://asciinema.org/a/402846.svg)](https://asciinema.org/a/402846)
 
 #### lesson 2
 
-* 2.1-2.4 [vimtutor-lerning 2.1-2.4 - asciinema](https://asciinema.org/a/402877)
-* 2.5-2.7 [vimtutor-lerning 2.5-2.7 - asciinema](https://asciinema.org/a/402879)
+* 2.1-2.4 [![asciicast](https://asciinema.org/a/402877.svg)](https://asciinema.org/a/402877)
+* 2.5-2.7 [![asciicast](https://asciinema.org/a/402879.svg)](https://asciinema.org/a/402879)
 
 #### lesson 3
 
-* 3.1-3.3[vimtutor-lerning 3.1-3.3 - asciinema](https://asciinema.org/a/402884)
-* 3.4 [vimtutor-lerning 3.4 - asciinema](https://asciinema.org/a/402886)
+* 3.1-3.3 [![asciicast](https://asciinema.org/a/402884.svg)](https://asciinema.org/a/402884)
+* 3.4 [![asciicast](https://asciinema.org/a/402886.svg)](https://asciinema.org/a/402886)
 
 #### lesson 4
 
-* 4.1-4.2 [vimtutor-lerning 4.1-4.2 - asciinema](https://asciinema.org/a/402888)
-* 4.3-4.4 [vimtutor-lerning 4.3-4.4 - asciinema](https://asciinema.org/a/402891)
+* 4.1-4.2 [![asciicast](https://asciinema.org/a/402888.svg)](https://asciinema.org/a/402888)
+* 4.3-4.4 [![asciicast](https://asciinema.org/a/402891.svg)](https://asciinema.org/a/402891)
 
 #### lesson 5
 
-* 5.1-5.2 [vimtutor-lerning 5.1-5.2 - asciinema](https://asciinema.org/a/402900)
-* 5.3-5.4[vimtutor-lerning 5.3-5.4 - asciinema](https://asciinema.org/a/402904)
+* 5.1-5.2 [![asciicast](https://asciinema.org/a/402900.svg)](https://asciinema.org/a/402900)
+* 5.3-5.4 [![asciicast](https://asciinema.org/a/402904.svg)](https://asciinema.org/a/402904)
 
 #### lesson 6
 
-* 6.1-6.3 [vimtutor-lerning 6.1-6.3 - asciinema](https://asciinema.org/a/402912)
-* 6.4-6.5 [vimtutor-lerning 6.4-6.5 - asciinema](https://asciinema.org/a/402920)
+* 6.1-6.3 [![asciicast](https://asciinema.org/a/402912.svg)](https://asciinema.org/a/402912)
+* 6.4-6.5 [![asciicast](https://asciinema.org/a/402920.svg)](https://asciinema.org/a/402920)
 
 #### lesson 7
 
-* 7.1-7.2 [vimtutor-lerning 7.1-7.2 - asciinema](https://asciinema.org/a/402926)
-* 7.3 [vimtutor-lerning 7.3 - asciinema](https://asciinema.org/a/402944)
+* 7.1-7.2 [![asciicast](https://asciinema.org/a/402926.svg)](https://asciinema.org/a/402926)
+* 7.3 [![asciicast](https://asciinema.org/a/402944.svg)](https://asciinema.org/a/402944)
 
 ## 四、自查清单
 
@@ -101,7 +101,7 @@ $ :q! <ENTER>  #退出学习
 
      * 此状态下敲击键盘动作会被Vim识别为命令，而非输入字符。比如我们此时按下i，并不会输入一个字符，i被当作了一个命令。
 
-     * 以下是常用的几个命令：
+     * 常用的几个命令：
        * `i` 切换到输入模式，以输入字符。
        * `x` 删除当前光标所在处的字符。
        * `:` 切换到底线命令模式，以在最底一行输入命令。
