@@ -99,7 +99,9 @@ $ sudo apt-get install apache2
 
 ## 五、参考资料
 
-1. [虚拟机报错Failed to open/create the internal network 'HostInterfaceNetworking-VirtualBox Host](https://blog.csdn.net/u012269267/article/details/103976666?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&dist_request_id=1332041.11799.16192543515191859&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control)
+1. 虚拟机报错Failed to open/create the internal network 'HostInterfaceNetworking-VirtualBox Host](https://blog.csdn.net/u012269267/article/details/103976666?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&dist_request_id=1332041.11799.16192543515191859&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control)
    * 重启虚拟网卡
-2. 
+2. [Systemd 入门教程：命令篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html)
+3. [Systemd 入门教程：实战篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html)
+
 
