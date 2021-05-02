@@ -69,25 +69,25 @@
 
 * 支持对jpeg格式图片进行图片质量压缩
 
-  ![task1-1](img\task1-1.png)
+  ![task1-1](img/task1-1.png)
 
 * 支持对jpeg/png/svg格式图片在保持原始宽高比的前提下压缩分辨率
 
-  ![task1-2](img\task1-2.png)
+  ![task1-2](img/task1-2.png)
 
-* 支持对图片批量添加自定义文本水印![task1-3](img\task1-3.png)
+* 支持对图片批量添加自定义文本水印![task1-3](img/task1-3.png)
 
 * 支持批量重命名（统一添加文件名前缀或后缀，不影响原始文件扩展名）
 
   * 处理前文件名分别为命名为**1.jpg**、**2.png**、**3.svg**
 
-  * 处理后![task1-4](img\task1-4.png)
+  * 处理后![task1-4](img/task1-4.png)
 
-    ![task1-5](img\task1-5.png)
+    ![task1-5](img/task1-5.png)
 
 * 支持将png/svg图片统一转换为jpg格式图片
 
-  ![task1-6](img\task1-6.png)
+  ![task1-6](img/task1-6.png)
 
 #### 任务二：用bash编写一个文本批处理脚本，对以下附件分别进行批量处理完成相应的数据统计任务
 
