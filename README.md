@@ -1,3 +1,5 @@
+Switch the branch to check different chapters of homework.
+
 ## 实验报告评分基本规则
 
 - 以下评分规则以满分 10 分为例，其他满分情况按比例缩放
@@ -28,4 +30,4 @@
 
 - - 晚提交不超过 1 周 **0.5分**
 
-# Switch branch to check different chapter of homework.
+
